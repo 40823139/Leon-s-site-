@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '測試用 test02', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'About me \n my\xa0repository\xa0:  40823139 / Leon-site \n \n Other pages \n \n 計算機程式 \xa0: 關於本網頁建立之基礎 \n', 'tags': '', 'url': 'About.html'}]};
